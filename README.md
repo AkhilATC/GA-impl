@@ -1,2 +1,2 @@
-# GA_fun_intro
+# GA-impl 
 Genetic algorithm a fun implementation
